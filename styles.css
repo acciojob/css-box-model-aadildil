@@ -1,2 +1,22 @@
 
 /* Your CSS Code here. */
+body
+{
+	text-align:center;
+}
+.box
+{
+	width:300px;
+	background-color:lightblue;
+	padding:50px;
+	border: 15px solid blue;
+	margin:20px;
+}
+.container
+{ width:470px;
+	border: 1px solid black; 
+}
+.para
+{
+	border: 1px dotted black;
+}
